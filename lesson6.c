@@ -7,6 +7,4 @@ int main() {
 
     int last_digit = num % 10;
     printf("%d\n", last_digit);
-
-    return 0;
 }
